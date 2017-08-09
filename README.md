@@ -1,3 +1,7 @@
+topydo-firebase
+========================================
+This lib is topydo modified to push data to firebase and allow you to access all your tasks from any console line. For more infos about topydo, refer to documentation below or to original [topydo repository](https://github.com/bram85/topydo)
+
 topydo - a powerful todo.txt application
 ========================================
 
